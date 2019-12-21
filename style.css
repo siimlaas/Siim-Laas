@@ -1,0 +1,40 @@
+body {
+margin: 0;
+
+}
+.algus {
+margin-top: 0;
+
+  font-style: italic;
+  color: #50d890;
+
+
+
+}
+
+.tutvustus {
+background-image: url(mts.png);
+background-position: center;
+
+
+
+}
+.alguspar {
+  font-size: 150%;
+  color: #50d890;
+}
+.keskeleh1 {
+  height: 300px;
+}
+.Seletus {
+
+}
+.SelH1 {
+  color: #50d890;
+}
+.SelPar {
+  font-size: 120%;
+}
+h1 {
+  color: #50d890;
+}
