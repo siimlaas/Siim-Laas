@@ -42,5 +42,11 @@ h1 {
   font-style: italic;
   color: #50d890;
   font-size: 150%
-  
+
+
 }
+.btn {
+  cursor: pointer;
+
+
+  }
